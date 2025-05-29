@@ -76,8 +76,8 @@ export function LoginForm() {
         {/* Header */}
         <div className="text-center space-y-2">
           <div className="flex items-center justify-center space-x-2">
-            <div className="w-12 h-12 bg-blue-600 rounded-xl flex items-center justify-center">
-              <GraduationCap className="w-7 h-7 text-white" />
+            <div className="w-12 h-12 rounded-xl flex items-center justify-center">
+              <img src="https://res.cloudinary.com/do7dw5dwq/image/upload/v1748500394/7629ecf5-3fe2-4ed4-88c5-60ecf092ff11.png" alt="Logo" className="w-full h- full text-white" />
             </div>
             <h1 className="text-2xl font-bold text-gray-900">EduManage Pro</h1>
           </div>
